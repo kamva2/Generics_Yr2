@@ -1,5 +1,5 @@
 // Node class
-/** Geeks for Geeks
+/** 
  * Represents a node in the Binary Search Tree.
  */
 
