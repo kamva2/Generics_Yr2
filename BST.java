@@ -1,5 +1,5 @@
 /*
- * Geeks for geeks
+ * 
  * This class implements a Binary Search Tree (BST) for storing and managing knowledge base entries.
  * Each node in the tree contains a term, statement, and confidence score.
  */
